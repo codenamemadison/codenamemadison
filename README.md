@@ -1,9 +1,10 @@
 ![banner](https://github.com/codenamemadison/codenamemadison/assets/42008799/c6e2a006-3283-4ace-9a85-a947ec5b1692)
 
+<!--
 <p align="center">
  she/her/hers
 </p>
-
+-->
 I'm a current upcoming graduate at NYU studying Computer Science and double minoring in Integrated Design and Media & Game Engineering.  **I'm passionate about technology, art, and their intersections and love making cool things for people to consume or use!**
 
 I specialize in Frontend Engineering, Backend Engineering, Game Engineering & Game Design, Web Development, and App Development. 
