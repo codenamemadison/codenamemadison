@@ -9,8 +9,8 @@ I'm a recent graduate from NYU with a B.S. in Computer Science and double minor 
 
 I specialize in Frontend Engineering, Backend Engineering, Game Engineering & Game Design, Web Development, and App Development. 
 
-🔭 Currently working on my final project for my Game Design class <br>
-🌱 Learning more about React, CSS Animation, and web apps involving the Spotify API <br>
+🔭 Currently working on a React Native based project <br>
+🌱 Learning more about React/React Native, CSS Animation, and web apps involving the Spotify API <br>
 ⚡ Looking for Software Engineering and Design roles for New Grad <br>
 
 ## My GitHub Stats
