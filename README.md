@@ -5,13 +5,13 @@
  she/her/hers
 </p>
 -->
-I'm a recent graduate from NYU with a B.S. in Computer Science and double minor in Integrated Design and Media & Game Engineering.  **I'm passionate about technology, art, and their intersections and love making cool things for people to consume or use!**
+I'm a Frontend Engineer & UX/UI Designer with two years of experience. I graduated with a B.S. in Computer Science and double minor in Integrated Design and Media & Game Engineering.  **I'm passionate about technology, art, and their intersections and love making cool things for people to consume or use!**
 
 I specialize in Frontend Engineering, Backend Engineering, Game Engineering & Game Design, Web Development, and App Development. 
 
-🔭 Currently working on a React Native based project <br>
-🌱 Learning more about React/React Native, CSS Animation, and web apps involving the Spotify API <br>
-⚡ Looking for Software Engineering and Design roles for New Grad <br>
+🔭 Currently working on a React based project for recipe creations <br>
+🌱 Learning more about React, Tailwind CSS, and Typescript <br>
+⚡ Looking for Software Engineering roles <br>
 
 ## My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codenamemadison&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
