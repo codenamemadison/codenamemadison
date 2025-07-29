@@ -16,7 +16,7 @@ I specialize in Frontend Engineering, Backend Engineering, Game Engineering & Ga
 ## My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codenamemadison&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamemadison&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamemadison&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br> <sub> (Excluding private repositories I have worked on in collaboration with others) </sub>
 
